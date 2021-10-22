@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Thunder Speed Test</string>
+    <string name="begin_text">Begin Test</string>
+    <string name="ping_waiting_text">Selecting best server based on ping...</string>
+    <string name="restart_btn_txt">Restart Test</string>
+    <string name="host_err_try_again_txt">There was a problem in getting Host Location. Try again later.</string>
+    <string name="ping_init_val">0 ms</string>
+    <string name="download_init_val">0 Mbps</string>
+    <string name="upload_init_val">0 Mbps</string>
+</resources>
